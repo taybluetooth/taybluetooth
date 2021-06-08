@@ -1,4 +1,4 @@
-##### Hi I am Callum! :wave:
+### Hi I am Callum! :wave:
 
 I am a 4th Year Software Engineering Student currently studying at Heriot Watt University in Edinburgh.
 
