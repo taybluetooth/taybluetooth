@@ -2,14 +2,13 @@
 
 I am a 4th Year Software Engineering Student currently studying at Heriot Watt University in Edinburgh. 🏙️
 
-I am also a Software Engineer fulfilling an internship at Scrapp LLC. 👨‍🔬
+I am also a Software Engineer specialising in mobile and web app development at Scrapp LLC.
 
 #### What I'm currently working on:
 
-- ✍️ Currently working on making my own personal blog.
-- 💪 Currently learning C and improving my Javascript.
-- 📖 Learning Flutter and Dart for my job.
-- 👨‍🎓 Deciding my dissertation topic for next semester.
+- 💪 Learning Typescript.
+- 📖 Studying Ruby.
+- 👨‍🎓 Implementing my dissertation project.
 
 #### Statistics:
 
