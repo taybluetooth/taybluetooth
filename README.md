@@ -1,6 +1,6 @@
 ### Hi I am Callum! 👋
 
-I am a 4th Year Software Engineering Student currently studying at Heriot Watt University in Edinburgh. 🏙️
+I am a 5th Year Software Engineering Student currently studying at Heriot Watt University in Edinburgh. 🏙️
 
 I am also a Software Engineer specialising in mobile and web app development at Scrapp LLC.
 
