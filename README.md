@@ -6,9 +6,9 @@ I am also a Software Engineer specialising in mobile and web app development at 
 
 #### What I'm currently working on:
 
-- 💪 Learning Typescript.
+- 💪 Practicing Typescript.
 - 📖 Studying Ruby.
-- 👨‍🎓 Implementing my dissertation project.
+- 👨‍🎓 Working on Placement.
 
 #### Statistics:
 
